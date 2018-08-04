@@ -1,8 +1,8 @@
-package co.grandcircus.fbjava_july2018.exercise_06;
+package co.grandcircus.exercise_06;
 
 import java.util.Scanner;
 
-public class HelloLoops {
+public class HelloLoopsApp {
 	public static void main(String[] args) {
 		//
 		// Exercise 06
